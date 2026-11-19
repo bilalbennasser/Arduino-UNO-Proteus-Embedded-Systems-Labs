@@ -131,3 +131,18 @@ This laboratory provides practical experience in:
 Academic practical work in Real-Time and Embedded Systems.
 
 The repository documents laboratory implementations and simulation results for educational and technical portfolio purposes.
+
+## Project Team
+
+This academic laboratory project was carried out by:
+
+- **Bilal Bennasser**
+- **Hajar Guadouli**
+- **Fatima-Zahra Ibnesellaou**
+
+## Laboratory Report
+
+The complete group laboratory report includes circuit simulations,
+experimental results, screenshots, and technical analysis.
+
+[View the TP01 Laboratory Report (PDF)](docs/TP01_Bennasser-Bilal_Guadouli-Hajar_Ibnesellaou-Fatima-zahra.pdf)
