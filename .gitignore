@@ -1,0 +1,25 @@
+﻿# Proteus temporary files
+*.workspace
+*.pdsprj~
+*.bak
+*.tmp
+
+# Proteus backups
+Project Backups/
+
+# Arduino temporary build files
+**/build/
+*.with_bootloader.hex
+
+# Operating system
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Superseded local sketch copies
+/arduino/7SEGM/7SEGM/7SEGM.ino
+/arduino/TP1_LCD/TP1_LCD/TP1_LCD.ino
